@@ -1,0 +1,12 @@
+Biblioteca de Javascript para criação de interface
+
+utilizado para construir SPAs (Single Page Applications)
+
+SPA (Single Page Application) é uma aplicação web que carrega uma página principal e atualiza seu conteúdo conforme você navega, sem precisar recarregar a página inteira a cada mudança.
+
+Baseado em componentes (peças de lego)
+
+O React lida com a parte visual da aplicação, o que o usuário vê na tela.
+
+Aplica o virtual DOM para realizar as alterações de DOM.
+

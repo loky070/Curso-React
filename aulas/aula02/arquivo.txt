@@ -1,0 +1,6 @@
+pra rodar o react:
+
+npx create-react-app nome-do-app
+
+importante: o Create-react foi descontinuado, é recomendado usar vite.
+Mas como é só pelo curso deixei assim.
