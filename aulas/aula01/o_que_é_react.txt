@@ -10,3 +10,14 @@ O React lida com a parte visual da aplicação, o que o usuário vê na tela.
 
 Aplica o virtual DOM para realizar as alterações de DOM.
 
+
+agora as definições importantes:
+
+Componentes: São funções JavaScript que retornam marcação (JSX)
+
+JSX: É uma sintaxe que permite escrever código HTML dentro do JavaScript
+
+Props: São propriedades passadas para os componentes
+
+
+
